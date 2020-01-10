@@ -65,3 +65,5 @@ sparkClassification/SparkClassification/input/FinalOutput.csv
 sparkClassification/SparkClassification/pom.xml
 .metals/metals.h2.db
 .metals/metals.lock.db
+.metals
+.vscode
