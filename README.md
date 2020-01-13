@@ -1,8 +1,8 @@
 Code author
 -----------
-Brian Rouse  
-Derek Grubis  
-Harshit Gupta
+Brian Rouse (@brouse12)
+Derek Grubis (@dgrubis)  
+Harshit Gupta (@harshit21g)
 
 # CS 6240 Final Project
 The goal of this project was to train an ensemble of classification models that can determine whether an airplane flight will be delayed by weather conditions.  
