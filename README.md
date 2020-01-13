@@ -1,7 +1,7 @@
 Code author
 -----------
-Brian Rouse (@brouse12)
-Derek Grubis (@dgrubis)  
+Brian Rouse (@brouse12)  
+Derek Grubis (@dgrubis)    
 Harshit Gupta (@harshit21g)
 
 # CS 6240 Final Project
